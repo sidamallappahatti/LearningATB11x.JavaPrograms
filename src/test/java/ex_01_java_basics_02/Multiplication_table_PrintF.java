@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Multiplication_table_PrintF {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter number for the multiplication table");
+        System.out.println("Enter the number for multiplication table");
         int num = sc.nextInt();
         System.out.println("Multiplication table for 9");
 
