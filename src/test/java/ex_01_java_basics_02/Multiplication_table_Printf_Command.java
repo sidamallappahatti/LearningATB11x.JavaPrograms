@@ -2,7 +2,7 @@ package ex_01_java_basics_02;
 
 import java.util.Scanner;
 
-public class Multiplication_table_PrintF {
+public class Multiplication_table_Printf_Command {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number for multiplication table");
