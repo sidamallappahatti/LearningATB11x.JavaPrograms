@@ -1,4 +1,4 @@
-package ex_01_java_basics_02;
+package ex_02_java_basics_02;
 
 public class Lab018_Byte {
     public static void main(String[] args) {
