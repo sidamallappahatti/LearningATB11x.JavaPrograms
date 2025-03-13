@@ -8,7 +8,6 @@ public class type3 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Score: ");
 
-
         }
     }
 
