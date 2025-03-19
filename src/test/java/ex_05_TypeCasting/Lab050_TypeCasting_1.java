@@ -8,6 +8,7 @@ public class Lab050_TypeCasting_1 {
         byte b = 10;
         int a = b; // Valid - > Implicit Casting- Automatically
         int a1 = (int)b; // Explicit Casting - Widening( doesn't require)
+        System.out.println(a1);
 
         }
     }
