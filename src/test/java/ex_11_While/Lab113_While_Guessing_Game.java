@@ -9,7 +9,7 @@ public class Lab113_While_Guessing_Game {
         Random random = new Random();
         int numberToGuess = random.nextInt(100) + 1;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a number");
+        System.out.println("Enter a number between 0 and 100");
 
         int guess;
         int attempts = 0;
