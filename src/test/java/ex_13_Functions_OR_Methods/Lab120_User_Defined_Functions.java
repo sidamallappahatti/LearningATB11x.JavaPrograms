@@ -15,16 +15,16 @@ public class Lab120_User_Defined_Functions {
 
         // 2.Without Parameters but With Return Type
 
-        String msg=wop_wrt_greet();
+        String msg = wop_wrt_greet();
         System.out.println(msg);
 
         // 3.With Parameters and Without Return Type
-        wp_wort_details("Siddu",25,80000);
-        wp_wort_details("Ram",26,100000);
+        wp_wort_details("Siddu", 25, 80000);
+        wp_wort_details("Ram", 26, 100000);
 
 
         // 4. With Parameters and With Return Type
-        int sum=sum_of_two(2,6);
+        int sum = sum_of_two(2, 2);
         System.out.println(sum);
 
 
