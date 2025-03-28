@@ -27,7 +27,6 @@ public class Lab120_User_Defined_Functions {
         int sum = sum_of_two(2, 2);
         System.out.println(sum);
 
-
     }
 
     // 1.Without Parameters and Without Return Type
