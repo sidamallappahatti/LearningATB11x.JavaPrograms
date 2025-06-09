@@ -1,4 +1,4 @@
-package ex_25_OOPs_IIB_Instance_Initialization_Block;
+package ex_26_OOPs_IIB_Instance_Initialization_Block;
 
 public class Lab188_IIB {
 
