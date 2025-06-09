@@ -1,4 +1,4 @@
-package ex_24_OOPs_Abstraction;
+package ex_24_OOPs_Abstraction_Abstract_Class;
 
 public class Lab181_Abstraction_Cars {
 
