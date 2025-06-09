@@ -12,7 +12,28 @@ class ConcreteClass implements Incomplete_Interface {
 }
 
 interface Incomplete_Interface {
-    int a = 10;
+    int a = 10;// Final
 
     void display();
+
+    default void display1() {
+        System.out.println("Default is allowed");
+    }
+
+    static void display2() {
+        System.out.println("Default is allowed");
+    }
+}
+
+abstract class Incomplete_abstract {
+    int a = 10;//Not a final value
+
+    abstract void display3();
+
+    void display4() {
+    }
+
+    Incomplete_abstract() {
+    }
+
 }
