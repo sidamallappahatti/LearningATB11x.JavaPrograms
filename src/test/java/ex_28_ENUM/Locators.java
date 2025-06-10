@@ -5,7 +5,6 @@ public enum Locators {
     page_button("#btn"),
     page_input("#input");
 
-
     private String locators;
 
     Locators(String locators) {
