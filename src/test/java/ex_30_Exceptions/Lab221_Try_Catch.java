@@ -6,13 +6,10 @@ public class Lab221_Try_Catch {
         System.out.println("1");
 
         try {
-            int a=10/0;
+            int a = 10 / 0;
         } catch (ArithmeticException e) {
-            System.out.println("Number can't by divide by 0");
+            System.out.println("Number can't be divide by 0");
         }
         System.out.println(2);
-
-
-
     }
 }
