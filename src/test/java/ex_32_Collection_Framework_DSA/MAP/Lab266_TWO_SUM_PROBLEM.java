@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class Lab266_TWO_SUM_PROBLEM {
     public static void main(String[] args) {
-        int[] nums = {2, 7, 11, 15,};
+        int[] nums = {2, 7, 11, 14,};
         int target = 26;
         int[] result = twoSum(nums, target);
 
